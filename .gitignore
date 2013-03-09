@@ -5,3 +5,7 @@ bin/data/collisions.txt
 /bin
 
 *.class
+
+bin/com/bbj/cva/Main.class
+
+*.class
