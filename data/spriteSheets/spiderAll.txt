@@ -35,12 +35,12 @@ spiderShoot0001
   xy: 360, 0
   size: 180, 114
   orig: 190, 140
-  offset: 5, 14
+  offset: 0, 0
   index: -1
 spiderDie0001
   rotate: false
   xy: 900, 0
   size: 180, 114
   orig: 190, 140
-  offset: 5, 14
+  offset: 0, 0
   index: -1
